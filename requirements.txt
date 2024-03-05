@@ -1,0 +1,3 @@
+selenium==4.18.1
+undetected-chromedriver==3.5.5
+selenium-base==4.24.3
